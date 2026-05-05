@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+wbgapi
+scikit-learn
+xgboost
+statsmodels
+lxml
+matplotlib
+jupyter
